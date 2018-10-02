@@ -45,7 +45,7 @@
 	{
 	str("at\r\n");
 	 delay(100);
-	 str("atd9677956436;\r\n");
+	 str("atd967XXXXXXX;\r\n");  // use your phone number
 	 delay(6000);
 	 str("ath\r\n");
 	}
